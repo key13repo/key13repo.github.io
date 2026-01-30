@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/key13
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://key13repo.github.io
+  * I am key13 (https://keybase.io/key13) on keybase.
+  * I have a public key ASAOW3f5-x-L8-XpO4nOxi5ENKirCpJokzAluZDtMraPKwo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120359635df7bff2df813c7d58c4041b877b8f6fff92b8251230388986e66b564b60a",
+      "host": "keybase.io",
+      "kid": "01200e5b77f9fb1f8bf3e5e93b89cec62e4434a8ab0a9268933025b990ed32b68f2b0a",
+      "uid": "485246e6c73d3289378a31c7e4740119",
+      "username": "key13"
+    },
+    "merkle_root": {
+      "ctime": 1769779404,
+      "hash": "c519e4841d780d4326e7bf53f9c1d581b0b92460119539e3b382826fd5ab3ce51bce8f9497c1c0c0a2708911f06b03f6dd757b0a89a58ef39309cc584292c8ed",
+      "hash_meta": "e281c9e3885b36136ce1bdfc323a35c04d7f62c9f605e4ed8026ee2e03659cf8",
+      "seqno": 27377730
+    },
+    "service": {
+      "entropy": "MP29KLhoQoYOqCoOGqeUolwB",
+      "hostname": "key13repo.github.io",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "6.5.1"
+  },
+  "ctime": 1769779508,
+  "expire_in": 504576000,
+  "prev": "c050ea05b9b0eb9ad344d41db83ba4349852a01374db7989ee449625e7a7ce9c",
+  "seqno": 15,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgDlt3+fsfi/Pl6TuJzsYuRDSoqwqSaJMwJbmQ7TK2jysKp3BheWxvYWTESpcCD8QgwFDqBbmw65rTRNQduDukNJhSoBN023mJ7kSWJeenzpzEIHpcRv4rgxQlYiQC3EO35P51i70d88yEx+lWQ5fOOh56AgHCo3NpZ8RA47eMyQ2KWQKWBcsZqKmyZuiW+BotB1K6mL0TaM8tnPATa36fWNX/9FGmlY7T6lLB8YUKaAyumhRpJeNiPSHFBahzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEICYEdnLQV4koXN05EmymER3y+MhRjWfcbXRGBfh6kBEco3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/key13
+
+==================================================================
